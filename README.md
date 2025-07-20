@@ -1,6 +1,6 @@
 # Apple Device Activation Server Emulator
 
-This PHP-based project served as the **main activation server for [`tedddbyActivator`]([https://github.com/tedddby](https://github.com/tedddby/tedddbyActivator-Poject)** — a powerful iCloud bypass solution for jailbroken Apple devices. Unlike simulated tools, this activation server was **fully functional**, generating legitimate activation responses accepted by real devices during the bypass process.
+This PHP-based project served as the **main activation server for [`tedddbyActivator`](https://github.com/tedddby/tedddbyActivator-Poject)** — a powerful iCloud bypass solution for jailbroken Apple devices. Unlike simulated tools, this activation server was **fully functional**, generating legitimate activation responses accepted by real devices during the bypass process.
 
 > ⚠️ **Disclaimer:** This tool is intended for **educational and security research purposes only**. Unauthorized use on devices you do not own or have permission to operate on may be illegal in your country.
 
