@@ -1,5 +1,4 @@
 <?php
-// BY: X-Large
 if(!isset($_POST['activation-info']) || empty($_POST['activation-info'])) { exit('403'); }
 
 else
